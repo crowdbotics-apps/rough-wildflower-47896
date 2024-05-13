@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [faq]()
 - [react-native-splash](modules/splash)
 - [react-native-terms-and-conditions-webview](modules/terms-and-conditions-webview)
+- [django-google-appointment](backend/modules)
 
 # Getting started: Frontend
 
